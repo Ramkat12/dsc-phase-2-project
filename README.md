@@ -24,7 +24,7 @@ Here , we are prepearing the data for analysis, the steps I took include:<br>
 
 Here you are now fitting your already preprocessed data into a model . We will start by a simple linear regression then a  multiple linear regression.<br>
 #### a)Simple linear regression.
-Our simple linear regression is between two variables **Price** and **sqft_living**.We create this model as shown below
+Our simple linear regression is between two variables **Price** and **sqft_living**.We create this model as shown below.
 
 ```python 
 ## In our formula, lets use the two variables price(target variable) and sqft_living(indipendent variable)
